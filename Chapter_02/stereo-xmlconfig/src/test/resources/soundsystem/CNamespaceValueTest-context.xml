@@ -8,6 +8,6 @@
           c:_0="Sgt. Pepper's Lonely Hearts Club Band"
           c:_1="The Beatles"/>
 
-    <bean id="cdPlayer" class="soundsystem.CDPlayer" c:_-ref="compactDisc"/>
+    <!--<bean id="cdPlayer" class="soundsystem.CDPlayer" c:_-ref="compactDisc"/>-->
 
 </beans>
